@@ -1,3 +1,12 @@
+"""
+Wildberries Parser для VERBA-group
+Разработчик: Сапарбай Алиаскар
+Дата: 2026-03-24
+
+Парсер собирает данные о пальто из натуральной шерсти с Wildberries.
+Сохраняет в Excel полный каталог и отфильтрованный по критериям.
+"""
+
 import pandas as pd
 import json
 import time
